@@ -15,3 +15,5 @@ Para la velocidad lineal usaremos los pixeles filtrados (será inversamente prop
 En caso de no tener área filtrado (se ha perdido al ratón), se para al gato y se le pone a girar sobre sí mismo para buscar al ratón.
 
 Las constantes del controlador se ha hecho de forma experimental.
+
+[Video Del Algoritmo Funcionando](https://www.youtube.com/watch?v=PtCbkIPXzW4&feature=youtu.be)
